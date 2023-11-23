@@ -1,0 +1,2 @@
+Link our dataset (dataset_2107.zip): https://drive.google.com/file/d/1wO2dONheyJBt0iewmXpV7kByw0D8V0GT/view?usp=sharing
+Link our YOLOv8s custom model (Crossing Road Person Detection.zip): https://drive.google.com/file/d/1Isz46i7NipEAEw2XqqsEMg__PTox97QO/view?usp=sharing
